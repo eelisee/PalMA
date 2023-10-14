@@ -6,24 +6,24 @@
 
 |Locale|Completion|
 |---|---|
-|[ar](#ar)|67.83|
+|[ar](#ar)|66.96|
 |[de_DE](#de_de)|100.00|
-|[el_GR](#el_gr)|97.39|
+|[el_GR](#el_gr)|97.32|
 |[es_ES](#es_es)|100.00|
-|[fr_FR](#fr_fr)|63.48|
+|[fr_FR](#fr_fr)|65.18|
 |[hi_IN](#hi_in)|100.00|
-|[it_IT](#it_it)|50.43|
-|[ja](#ja)|1.74|
-|[lv_LV](#lv_lv)|26.09|
-|[ru_RU](#ru_ru)|74.78|
+|[it_IT](#it_it)|49.11|
+|[ja](#ja)|1.79|
+|[lv_LV](#lv_lv)|26.79|
+|[ru_RU](#ru_ru)|74.11|
 |[sq_AL](#sq_al)|100.00|
-|[ur_PK](#ur_pk)|13.91|
+|[ur_PK](#ur_pk)|13.39|
 |[zh_CN](#zh_cn)|100.00|
-|[zh_TW](#zh_tw)|52.17|
+|[zh_TW](#zh_tw)|50.89|
 
 ## ar
 
-Completion: **67.83** (78 / 115 strings)
+Completion: **66.96** (75 / 112 strings)
 
 Contributors:
 
@@ -61,7 +61,7 @@ Missing:
   * `Or use this shell command:`
   * `PIN`
   * `Picture Show`
-  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on `
+  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on`
   * `Run the downloaded file.`
   * `Run the downloaded shell script.`
   * `Select &quot;Reverse Connection&quot;.`
@@ -77,7 +77,7 @@ Missing:
 
 ## de_DE
 
-Completion: **100.00** (115 / 115 strings)
+Completion: **100.00** (112 / 112 strings)
 
 Contributors:
 
@@ -91,7 +91,7 @@ Contributors:
 
 ## el_GR
 
-Completion: **97.39** (112 / 115 strings)
+Completion: **97.32** (109 / 112 strings)
 
 Contributors:
 
@@ -110,7 +110,7 @@ Missing:
 
 ## es_ES
 
-Completion: **100.00** (115 / 115 strings)
+Completion: **100.00** (112 / 112 strings)
 
 Contributors:
 
@@ -127,7 +127,7 @@ Contributors:
 
 ## fr_FR
 
-Completion: **63.48** (73 / 115 strings)
+Completion: **65.18** (73 / 112 strings)
 
 Contributors:
 
@@ -147,7 +147,6 @@ Missing:
   * `Below that you find the controls for each item:`
   * `Below you find the navigation controls.`
   * `Buttons on the left jump to the top, to the end, a page up or a page down`
-  * `Cannot check credentials, sorry!`
   * `Controls that are not available for certain kinds of content are marked grey.`
   * `Delete the item`
   * `Disconnect all users and end the session`
@@ -160,7 +159,6 @@ Missing:
   * `If you like PalMA, please recommend us by sharing in your social networks.<br />Enjoy PalMA!`
   * `In the top bar you can`
   * `In the upper left corner, click on &quot;VNC Server&quot;.`
-  * `Invalid credentials!`
   * `Large files are not supported.`
   * `List of connected users`
   * `Log in`
@@ -171,9 +169,8 @@ Missing:
   * `Or use this shell command:`
   * `PalMA &ndash; Login`
   * `Picture Show`
-  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on `
+  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on`
   * `Run the downloaded shell script.`
-  * `Screen section`
   * `Select &quot;Reverse Connection&quot;.`
   * `Some additional features are:`
   * `Tell us what you think`
@@ -186,7 +183,7 @@ Missing:
 
 ## hi_IN
 
-Completion: **100.00** (115 / 115 strings)
+Completion: **100.00** (112 / 112 strings)
 
 Contributors:
 
@@ -196,15 +193,15 @@ Contributors:
 
 ## it_IT
 
-Completion: **50.43** (58 / 115 strings)
+Completion: **49.11** (55 / 112 strings)
 
 Contributors:
 
   * Alexander Wagner
   * Jörg Mechnich
   * Simon Rankl
-  * Stefan Weil
   * Stefano Leccese
+  * Stefan Weil
 
 Missing:
   * `A list of all logged-in users as well as a button to disconnect everyone and therefore end the session.`
@@ -245,7 +242,7 @@ Missing:
   * `On the right you can choose the position on the PalMA monitor`
   * `Or use this shell command:`
   * `PIN: `
-  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on `
+  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on`
   * `Recommend us`
   * `Rotate`
   * `Run the downloaded file.`
@@ -267,14 +264,14 @@ Missing:
 
 ## ja
 
-Completion: **1.74** (2 / 115 strings)
+Completion: **1.79** (2 / 112 strings)
 
 Contributors:
 
   * Alexander Wagner
   * Dennis Müller
-  * Julian Kissel
   * Jörg Mechnich
+  * Julian Kissel
   * Stefan Weil
 
 Missing:
@@ -289,7 +286,6 @@ Missing:
   * `Below you find the navigation controls.`
   * `Buttons on the left jump to the top, to the end, a page up or a page down`
   * `CTRL + click the downloaded file and run it.`
-  * `Cannot check credentials, sorry!`
   * `Choose screen layout`
   * `Click here to show the webpage on the screen.`
   * `Close all windows and remove uploaded files`
@@ -325,7 +321,6 @@ Missing:
   * `In the top bar you can`
   * `In the upper left corner, click on &quot;VNC Server&quot;.`
   * `Invalid PIN.`
-  * `Invalid credentials!`
   * `Jump to end`
   * `Jump to start`
   * `Large files are not supported.`
@@ -348,7 +343,7 @@ Missing:
   * `PalMA &ndash; Login`
   * `Password`
   * `Picture Show`
-  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on `
+  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on`
   * `Recommend us`
   * `Remove this item`
   * `Right`
@@ -358,7 +353,6 @@ Missing:
   * `Run the downloaded file.`
   * `Run the downloaded shell script.`
   * `Screen`
-  * `Screen section`
   * `Select &quot;Reverse Connection&quot;.`
   * `Select language:`
   * `Select screen section for display`
@@ -394,7 +388,7 @@ Missing:
 
 ## lv_LV
 
-Completion: **26.09** (30 / 115 strings)
+Completion: **26.79** (30 / 112 strings)
 
 Contributors:
 
@@ -413,7 +407,6 @@ Missing:
   * `Below you find the navigation controls.`
   * `Buttons on the left jump to the top, to the end, a page up or a page down`
   * `CTRL + click the downloaded file and run it.`
-  * `Cannot check credentials, sorry!`
   * `Choose screen layout`
   * `Click here to show the webpage on the screen.`
   * `Close all windows and remove uploaded files`
@@ -443,7 +436,6 @@ Missing:
   * `In the top bar you can`
   * `In the upper left corner, click on &quot;VNC Server&quot;.`
   * `Invalid PIN.`
-  * `Invalid credentials!`
   * `Large files are not supported.`
   * `Layout`
   * `Left`
@@ -462,13 +454,12 @@ Missing:
   * `PalMA &ndash; Login`
   * `Password`
   * `Picture Show`
-  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on `
+  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on`
   * `Recommend us`
   * `Right`
   * `Run the downloaded file.`
   * `Run the downloaded shell script.`
   * `Screen`
-  * `Screen section`
   * `Select &quot;Reverse Connection&quot;.`
   * `Select language:`
   * `Some additional features are:`
@@ -493,7 +484,7 @@ Missing:
 
 ## ru_RU
 
-Completion: **74.78** (86 / 115 strings)
+Completion: **74.11** (83 / 112 strings)
 
 Contributors:
 
@@ -505,8 +496,8 @@ Contributors:
   * Mariia Zrianina
   * Olga Pogorelaya
   * Simona Doneva
-  * Stefan Weil
   * Stefano Leccese
+  * Stefan Weil
 
 Missing:
   * `A list of all logged-in users as well as a button to disconnect everyone and therefore end the session.`
@@ -529,7 +520,7 @@ Missing:
   * `New users can join at`
   * `On the right you can choose the position on the PalMA monitor`
   * `Or use this shell command:`
-  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on `
+  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on`
   * `Run the downloaded file.`
   * `Run the downloaded shell script.`
   * `Select &quot;Reverse Connection&quot;.`
@@ -541,7 +532,7 @@ Missing:
 
 ## sq_AL
 
-Completion: **100.00** (115 / 115 strings)
+Completion: **100.00** (112 / 112 strings)
 
 Contributors:
 
@@ -555,7 +546,7 @@ Contributors:
 
 ## ur_PK
 
-Completion: **13.91** (16 / 115 strings)
+Completion: **13.39** (15 / 112 strings)
 
 Contributors:
 
@@ -576,7 +567,6 @@ Missing:
   * `Below you find the navigation controls.`
   * `Buttons on the left jump to the top, to the end, a page up or a page down`
   * `CTRL + click the downloaded file and run it.`
-  * `Cannot check credentials, sorry!`
   * `Choose screen layout`
   * `Click here to show the webpage on the screen.`
   * `Close all windows and remove uploaded files`
@@ -607,7 +597,6 @@ Missing:
   * `In the top bar you can`
   * `In the upper left corner, click on &quot;VNC Server&quot;.`
   * `Invalid PIN.`
-  * `Invalid credentials!`
   * `Large files are not supported.`
   * `Layout`
   * `Left`
@@ -625,7 +614,7 @@ Missing:
   * `PalMA &ndash; Login`
   * `Password`
   * `Picture Show`
-  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on `
+  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on`
   * `Recommend us`
   * `Remove this item`
   * `Right`
@@ -667,7 +656,7 @@ Missing:
 
 ## zh_CN
 
-Completion: **100.00** (115 / 115 strings)
+Completion: **100.00** (112 / 112 strings)
 
 Contributors:
 
@@ -683,19 +672,19 @@ Contributors:
 
 ## zh_TW
 
-Completion: **52.17** (60 / 115 strings)
+Completion: **50.89** (57 / 112 strings)
 
 Contributors:
 
   * Aimee C. Chen
   * Alexander Wagner
   * Caipei Song
+  * chihchih-ouoh
   * Jörg Mechnich
   * Noel Chia
   * Piero Divasto
   * Stefan Weil
   * Yang
-  * chihchih-ouoh
 
 Missing:
   * `A list of all logged-in users as well as a button to disconnect everyone and therefore end the session.`
@@ -733,7 +722,7 @@ Missing:
   * `On the right you can choose the position on the PalMA monitor`
   * `Or use this shell command:`
   * `PIN: `
-  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on `
+  * `Please let us know about problems or ideas to improve PalMA. Help us directly by sending crash reports or contributing on`
   * `Recommend us`
   * `Rotate`
   * `Run the downloaded file.`
